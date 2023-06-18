@@ -1,0 +1,50 @@
+{
+
+    "item":[
+        {
+            "topic":"Importance of establishing a strong online presence",
+            "keywords":["online presence","small businesses","digital marketing","branding"],
+            "category":"ICP"
+        },
+        {
+            "topic":"How fast turnaround times in logo and website design benifit your business",
+            "keywords":["fast turnaround","logo design","website design","branding"],
+            "category":"ICP"
+        },{
+            "topic":"Affordable branding solutions for startupsand entrepreneurs",
+            "keywords":["affordable branding","startups","entrepreneurs","logo design","website design"],
+            "category":"ICP"
+        },{
+            "topic":"The benefits of comprehensive Branding Services for small to medium-sized businesses",
+            "keywords":["social media management","website design","comprehensive branding","small businesses"],
+            "category":"Mission"
+        },{
+            "topic":"Expret tips for choosing the right digital marketing Agency for your businesses ",
+            "keywords":["website design","logo design","branding","fast turnaround"],
+            "category":"Mission"
+        },{
+            "topic":"Importance of establishing a strong online presence",
+            "keywords":["startups","affordable branding","social media management","comprehensive branding"],
+            "category":"Mission"
+        },{
+            "topic":"Expret tips for choosing the right digital marketing Agency for your businesses ",
+            "keywords":["online presence","small businesses","digital marketing","branding"],
+            "category":"Product"
+        },{
+            "topic":"Affordable branding solutions for startupsand entrepreneurs",
+            "keywords":["affordable branding","startups","entrepreneurs","logo design","website design"],
+            "category":"Product"
+        },{
+            "topic":"Importance of establishing a strong online presence",
+            "keywords":["affordable branding","startups","entrepreneurs","logo design","website design"],
+            "category":"Product"
+        },{
+            "topic":"Expret tips for choosing the right digital marketing Agency for your businesses",
+            "keywords":["online presence","small businesses","digital marketing","branding"],
+            "category":"Custom"
+        }
+
+
+    ]
+
+}
